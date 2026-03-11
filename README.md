@@ -1,7 +1,3 @@
-Berikut contoh **README GitHub lengkap (professional level)** yang cocok untuk project yang kamu jelaskan sebelumnya: **Shelby Web Desktop Dashboard** untuk ekosistem **Shelby** di **Aptos**.
-
----
-
 # Shelby Web Desktop Dashboard
 
 **Shelby Web Desktop Dashboard** is a web-based control center designed for interacting with the Shelby decentralized storage ecosystem on Aptos.
